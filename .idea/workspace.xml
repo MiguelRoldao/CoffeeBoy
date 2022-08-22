@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b348191b-7d3b-4028-989a-0d3d08adb938" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstSwing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/forest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/title.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/eb/awtcli/DebugDesktop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/eb/awtcli/EmuDesktop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/eb/awtcli/FlagCheckBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/eb/awtcli/RegisterTextField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/eb/cli/App.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/eb/cli/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/eb/cli/ImagePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/eb/hardware/CPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/eb/hardware/CPUGB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/eb/hardware/Cartridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/eb/hardware/Hardware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/eb/hardware/HardwareSeq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/eb/hardware/IO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/eb/hardware/MemoryComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/eb/hardware/MemoryException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/eb/hardware/MemoryMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/eb/hardware/OAM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/eb/hardware/OP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/eb/hardware/PPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/eb/hardware/RomOnlyCartridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/eb/hardware/Vram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/eb/hardware/VramGB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/eb/hardware/Wram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/eb/hardware/WramGB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tetris.gb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CclQMk3GvFWhsWQYx2mGR54cWK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH&quot;: &quot;198&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW&quot;: &quot;true&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH&quot;: &quot;518&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/miguelito/Projects/FirstSwing&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/com/eb/hardware" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.eb.cli.App" />
+      <module name="FirstSwing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eb.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DebugDesktop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.eb.awtcli.DebugDesktop" />
+      <module name="FirstSwing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eb.awtcli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmuDesktop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.eb.awtcli.EmuDesktop" />
+      <module name="FirstSwing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eb.awtcli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hardware" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.eb.hardware.Hardware" />
+      <module name="FirstSwing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eb.hardware.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="FirstSwing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.DebugDesktop" />
+        <item itemvalue="Application.EmuDesktop" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.Hardware" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b348191b-7d3b-4028-989a-0d3d08adb938" name="Changes" comment="" />
+      <created>1659109739475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659109739475</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/eb/hardware/PPU.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
